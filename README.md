@@ -6,9 +6,9 @@ This repository contains my solutions to practice exercises, designed to help me
 
 Exercises are organized into folders by each language course. Each folder typically contains the following:
 
-- **README.md:** This file provides instructions for the exercises within the folder.
-- **Exercise files:** These files contain prompts or starting code for you to complete.
-- Test files (optional): Some exercises may include test files (e.g., using RSpec) to help you verify your solutions.
+- **README.md:** This file provides instructions for the setting up the corresponding programming laguage within the folder.
+- **Exercise files:** These files are my solutions to each problem within the topic discussed.
+- Test files (optional): Some exercises may include test files to help you verify your solutions.
 
 ## Contributing
 

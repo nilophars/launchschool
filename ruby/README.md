@@ -6,9 +6,6 @@ This repository is a complement to the Ruby course for LaunchSchool. It contains
 
 Each set of exercises should only be done **after** being directed to do so in the assignment of the corresponding Ruby lesson.
 
-> [!IMPORTANT]
-> Please do not submit your solutions as a PR to this repository. Any PR that does this will have to be closed.
-
 ## Getting Started
 
 ### 1. Clone the Repository:
@@ -24,22 +21,23 @@ Each set of exercises should only be done **after** being directed to do so in t
 
 ## Installation instructions on a Mac (using rbenv)
 
-Step 1: Install xcode
-> xcode-select --install
+1. Install xcode
+> `xcode-select --install`
 
-Step 2: Install homebrew (provide password)
-> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+2. Install homebrew (provide password)
+> `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
-Step 3: Install ruby-build
-> brew install ruby-build
+3. Install ruby-build
+> `brew install ruby-build`
 
-Step 4: Install rbenv
-> brew install rbenv
-> rbenv init
-> echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+4. Install rbenv
+>
+```brew install rbenv
+rbenv init
+echo 'eval "$(rbenv init -)"' >> ~/.zshrc```
 
-Step 5: Install ruby
-> brew upgrade ruby-build
+5. Install ruby
+> ```brew upgrade ruby-build
 > rbenv install 3.2.2 --verbose
 > rbenv global 3.2.2
-> ruby -v ### ruby 3.2.2pxx (20xx-xx-xx revision xxxxx) [x86_64-darwin18]
+> ruby -v ### ruby 3.2.2pxx (20xx-xx-xx revision xxxxx) [x86_64-darwin18]```
