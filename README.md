@@ -8,7 +8,7 @@ Exercises are organized into folders by each language course. Each folder typica
 
 - **README.md:** This file provides instructions for the setting up the corresponding programming laguage within the folder.
 - **Exercise files:** These files are my solutions to each problem within the topic discussed.
-- Test files (optional): Some exercises may include test files to help you verify your solutions.
+- Test files (optional): Some exercises may include test files to help verify the solutions.
 
 ## Contributing
 
