@@ -1,18 +1,6 @@
 # LaunchSchool Practice Exercises
 
-This repository contains solutions to practice exercises, designed to help you solidify your understanding of concepts as you progress through LaunchSchool's curriculum.
-
-## Getting Started
-
-### 1. Clone the Repository:
-
-> `git clone https://github.com/nilophars/launchschool.git`
-
-### 2. Set Up Ruby:
-
-- Ensure you have a compatible Ruby version installed. You can check by running `ruby -v` in your terminal.
-- Download and install Ruby from https://www.ruby-lang.org/en/downloads/ if needed.
-- Consider using a version manager like `rbenv` or `rvm` for managing multiple Ruby versions.
+This repository contains my solutions to practice exercises, designed to help me solidify my understanding of concepts as I progress through LaunchSchool's curriculum.
 
 ## Exercise Structure
 
