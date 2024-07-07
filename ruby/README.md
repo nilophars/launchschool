@@ -21,6 +21,13 @@ git clone https://github.com/nilophars/launchschool.git
 - Consider using a version manager like `rbenv` or `rvm` for managing multiple Ruby versions.
 - Below are instructions for my specific setup.
 
+### 3. Run the program:
+
+Execute any of the exercise programs in the format below. For exercises, that are not executable, the answers are provided as comments in the file.
+```
+ruby <filename>.rb
+```
+
 ## Installation instructions on a Mac (using rbenv)
 
 1. Install xcode
