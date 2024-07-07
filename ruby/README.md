@@ -10,7 +10,9 @@ Each set of exercises should only be done **after** being directed to do so in t
 
 ### 1. Clone the Repository:
 
-> `git clone https://github.com/nilophars/launchschool.git`
+```
+git clone https://github.com/nilophars/launchschool.git
+```
 
 ### 2. Set Up Ruby:
 
