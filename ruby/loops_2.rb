@@ -4,7 +4,7 @@ when the user types "STOP". Each loop can get info from the user.
 =end
 
 input = ''
-signals = %w[red yellow green]
+signals = %w[red yellow green] # string array can be represented this way
 
 while input != 'STOP'
   # sample selects one random element of the array
