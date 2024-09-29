@@ -7,6 +7,6 @@ first = "Nilophar"
 last = "Shaik"
 puts first + ' ' + last
 
-## Other ways to concatenate
+## ALTERNATE
 # puts first.concat(' '.concat(last))
 # p first << ' ' << last
